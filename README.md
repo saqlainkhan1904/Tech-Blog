@@ -4,12 +4,7 @@
 - Just create an account and compose your own posts and don't forget to like other's posts 😁.
 - Also get the collection of all of your posts in your profile.
 
-<br>
 
-https://user-images.githubusercontent.com/75828760/127818439-0672a363-6aee-4758-b35d-efd513376927.mp4
-
-#### Checkout the Deployed website : https://post-o-blog.herokuapp.com/
-<br />
 
 ## TECHNOLOGY USED
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -92,7 +87,9 @@ https://user-images.githubusercontent.com/75828760/127818439-0672a363-6aee-4758-
 <br>
 <br>
 
-
+Credits
+# Author: MD SAQLAIN AHMAD KHAN
+# Email: <saqlainkhan1904@gmail.com>
 
 ## CONTRIBUTING
 This project is open for contributions so Pull requests and Issues are welcome.
