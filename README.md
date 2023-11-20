@@ -19,7 +19,7 @@
 <br>
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=6567a5)
+
 
 <br>
 
@@ -83,7 +83,7 @@
 ```
     http://localhost:3000/
 ``` 
-- That's all, now just Sign Up to POST-O-BLOG and compose your own posts.
+- That's all, now just Sign Up to TECH-BLOG and compose your own posts.
 <br>
 <br>
 
